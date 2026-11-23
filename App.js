@@ -114,4 +114,45 @@
          //     var visitorName = "John Doe";
          //     var product = "T-shirts";
          //     var quantity = 5;
-         //     alert(visitorName +' ' + "ordered" +' ' + quantity +' '+ product);
+
+         
+
+                //     CHAPTER NO 04 ASSIGNMENT
+
+
+// 1. Declare 3 variables in one statement.
+
+//    var studentName = "Muskan", batch = 23, course = "Web and App Development";
+//    alert("Studentname: " + studentName + "\nBatch: " + batch + "\nCourse: " + course);
+
+// 2. Declare 5 legal & 5 illegal variable names.
+
+//       {legal variables names}
+
+// 1.    var userName = "Muskan";
+// 2.    var _batchNumber = 23;
+// 3.    var $courseFee = 5000;
+// 4.    var student1 = "Ali";
+// 5.    var total_score = 95;
+
+//       {ilegal variables names}
+
+// 1.    var 1stStudent = "Ali";     // Cannot start with a number
+// 2.    var student-name = "Sara";  // Hyphens (-) are not allowed (treated as minus)
+// 3.    var let = 10;               // Cannot use reserved keywords like 'let', 'var', 'const'
+// 4.    var student name = "Zara";  // Spaces are not allowed
+// 5.    var @discount = 15;         // '@' is not a valid identifier character
+
+// // 3. Display this in your browser
+
+// document.writeln("<center><h1>Rules For Naming JS Variables</h1><br>");
+// document.writeln("Variable names can only contain letters, numbers, $ and _.<br>");
+// document.writeln("For example $my_1stVariable<br><br>");
+// document.writeln("Variables must begin with a letter, $ or _.<br>");
+// document.writeln("For example $name, _name or name<br><br>");
+// document.writeln("Variable names are case sensitive<br>");
+// document.writeln("Variable names should not be JS keywords</center>");
+
+
+                //    CHAPTER 05 ASSIGNMENT
+                
