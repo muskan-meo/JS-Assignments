@@ -156,3 +156,149 @@
 
                 //    CHAPTER 05 ASSIGNMENT
                 
+// 1a. Write a program that take two numbers & add them in a
+// new variable. Show the result in your browser.
+
+        //        var num1 = 2;
+        //        var num2 = 3; 
+        //        var result = num1 + num2;
+        //        document.writeln('The sum of 2 and 3 is ' + newNum);
+ 
+//  b. Repeat task1 for subtraction, multiplication, division &
+//     modulus.
+
+        //        var num1 = 20;
+        //        var num2 = 10; 
+        //        var result = num1 - num2;
+        //        document.writeln('When we subtract 10 from 20 we will get ' + result);
+
+ //  c. Repeat task1 for , multiplication, division & modulus.    
+
+        //        var num1 = 5;
+        //        var num2 = 10; 
+        //        var result = num1 * num2;
+        //        document.writeln('<b> When we multiply 5 with 10 we will get = </b> ' + result);
+
+  
+ //  d. Repeat task1 for division & modulus.          
+        
+        //        var num1 = 10;
+        //        var num2 = 5; 
+        //        var result = num1 / num2;
+        //        document.writeln('<b> When we divide 5 fron 10 we will get = </b> ' + result);
+
+ //  e. Repeat task1 for  modulus.
+
+        //        var num1 = 20;
+        //        var num2 = 3; 
+        //        var result = num1 % num2;
+        //        document.writeln('<b> When we divide 20 fron 3 we will get remender = </b> ' + result);
+
+//  3. Do the following using JS Mathematic Expressions:-
+//  a. Declare a variable.
+
+      // var num;
+
+//  b. Show the value of variable in your browser like “Value after variable declaration is: ??”.
+
+      //document.write("Value after variable declaration is: " + num + "<br>");
+
+//  c. Initialize the variable with some number.
+
+      //num = 5;
+
+//  d. Show the value of variable in your browser like “Initial value: 5”.
+
+      //document.write("Initial value: " + num + "<br>");
+
+//  e. Increment the variable.
+
+     //num++;
+
+//  f. Show the value of variable in your browser like “Value after increment is: 6”
+
+     //document.write("Value after increment is: " + num + "<br>");
+
+//  g. Add 7 to the variable.
+
+     // num = num + 7;
+
+//  h. Show the value of variable in your browser like “Value
+
+     // document.write("Value after addition is: " + num + "<br>");
+
+//  i. Decrement the variable.
+
+     // num--;
+
+//  j. Show the value of variable in your browser like “Value after decrement is: 12”.
+
+     // document.write("Value after decrement is: " + num + "<br>");
+
+//  k. Show the remainder after dividing the variable’s value by 3.
+
+    // var remainder = num % 3;
+
+//  l. Output : “The remainder is : 0”. 
+
+    // document.write("The remainder is : " + remainder + "<br>"); 
+
+// 4. Cost of one movie ticket is 600 PKR. Write a script to store
+// ticket price in a variable & calculate the cost of buying 5 tickets
+// to a movie. Example output:
+
+     //const ticketPrice = 600;
+     //const numberOfTickets = 5;
+     //const totalCost = ticketPrice * numberOfTickets;
+     //document.writeln(`Ticket cost to a movie is ${totalCost} PKR`);
+
+// 5. Write a script to display multiplication table of any number in your browser.
+//      var num1 = 4, num2 = 1
+//      var product = num1*num2;
+//      document.writeln('4 x 1 = ' + product +"<br>")
+
+//      var num1 = 4;
+//      var num2 = 2;
+//      var product = num1*num2;
+//      document.writeln('4 x 2 = ' + product +"<br>")
+     
+//      var num1 = 4;
+//      var num2 = 3;
+//      var product = num1*num2;
+//      document.writeln('4 x 3 = ' + product +"<br>")
+     
+//      var num1 = 4;
+//      var num2 = 4;
+//      var product = num1*num2;
+//      document.writeln('4 x 4 = ' + product +"<br>" )
+
+//      var num1 = 4;
+//      var num2 = 5;
+//      var product = num1*num2;
+//      document.writeln('4 x 5 = ' + product +"<br>" )
+
+//      var num1 = 4;
+//      var num2 = 6;
+//      var product = num1*num2;
+//      document.writeln('4 x 6 = ' + product +"<br>" )
+
+//      var num1 = 4;
+//      var num2 = 7;
+//      var product = num1*num2;
+//      document.writeln('4 x 7 = ' + product +"<br>" )
+
+//      var num1 = 4;
+//      var num2 = 8;
+//      var product = num1*num2;
+//      document.writeln('4 x 8 = ' + product +"<br>" )
+
+//      var num1 = 4;
+//      var num2 = 9;
+//      var product = num1*num2;
+//      document.writeln('4 x 9 = ' + product +"<br>" )
+
+//      var num1 = 4;
+//      var num2 = 10;
+//      var product = num1*num2;
+//      document.writeln('4 x 10 = ' + product +"<br>" )
+
