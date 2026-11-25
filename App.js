@@ -302,3 +302,67 @@
 //      var product = num1*num2;
 //      document.writeln('4 x 10 = ' + product +"<br>" )
 
+// 6. The Temperature Converter: It’s hot out! Let’s make a converter based on the steps here.
+
+// a. Store a Celsius temperature into a variable
+
+// const celsiusTemp = 30;
+
+// b. Convert it to Fahrenheit & output “NNoC is NNoF”
+
+// const convertedToFahrenheit = (celsiusTemp * 9) / 5 + 32;
+// console.log(`${celsiusTemp}°C is ${convertedToFahrenheit}°F`);
+
+//  c. Now store a Fahrenheit temperature into a variable
+
+// const fahrenheitTemp = 86;
+
+//  d. Convert it to Celsius & output “NNoF is NNoC”
+
+// const convertedToCelsius = ((fahrenheitTemp - 32) * 5) / 9;
+// console.log(`${fahrenheitTemp}°F is ${convertedToCelsius}°C`);
+
+// 7. Write a program to implement checkout process of a shopping cart system for
+//  an e-commerce website. Store the following in variables
+// a. Price of item 1
+// b. Price of item 2
+// c. Ordered quantity of item 1
+// d. Ordered Quantity of item 2
+// e. Shipping charges
+// Compute the total cost & show the receipt in your browser.
+
+        //   let item1 = 650 , quantity1 = 3;
+        //   let item2 = 100 , quantity2 = 7;
+        //   let shipping = 100
+        //   document.writeln('Price of item 1 is ' + item1 +'<br>');
+        //   document.writeln('Quantity of item1 is ' + quantity1 +'<br>');
+        //   document.writeln('Price of item 2 is ' + item2 +'<br>');
+        //   document.writeln('Quantity of item 2 is ' + quantity2 +'<br>');
+        //   document.writeln('Shiping charges ' + shipping +'<br><br>');
+        //   let totalCost = (item1*quantity1) + (item2*quantity2) + shipping;
+        //   document.writeln('Total cost of your order is '+  totalCost);
+
+//  8. Store total marks & marks obtained by a student in 2
+//     variables. Compute the percentage & show the result in your browser
+
+// a. Store total marks & marks obtained in variables
+
+//     let totalMarks = 980;
+//     let marksObtained = 804;
+
+// b. Compute the percentage
+
+//     let percentage = (marksObtained / totalMarks) * 100;
+
+// c. Show the result in the browser
+
+//   document.writeln("<h1>Marks Sheet</h1><br>");
+//   document.writeln(`Total marks: ${totalMarks}<br>`);
+//   document.writeln(`Marks obtained: ${marksObtained}<br>`);
+//   document.writeln(`Percentage: ${percentage}%`);
+
+// 9. Assume we have 10 US dollars & 25 Saudi Riyals. Write a script to convert the total currency to Pakistani Rupees.
+//    Perform all calculations in a single expression. (Exchange rates : 1 US Dollar = 104.80 Pakistani Rupee
+//    and 1 Saudi Riyal = 28 Pakistani Rupee)
+
+       
